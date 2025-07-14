@@ -1,0 +1,15 @@
+
+h1, h2, h3 {font-family: Georgia, serif;}
+
+body {background-color: #FADC61;
+margin: 20px;
+font-family: Verdana, sans-serif;}
+
+.unique-layout { display:flex; 
+gap: 25px;
+flex-wrap: wrap;}
+
+.unique-layout section {flex: 1 1 45%;
+	background-color: #FA9B61;
+	padding: 20px;
+	border: 1px solid #ccc;}
